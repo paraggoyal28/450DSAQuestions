@@ -1,0 +1,2 @@
+Trie is an efficient implementation reTrieval data structure. Using Trie, search complexities can be brought to optimal limit (key length). If we store keys in binary search tree, a well balanced BST will need time proportional to M*logN, where M is maximum string length and N is the number of keys in the tree. Using Trie, we can search the key in O(M) time. However the penalty is on Trie storage requirements.
+ 
